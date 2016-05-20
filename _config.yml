@@ -1,0 +1,28 @@
+name: SisaTaki
+favicon: null
+layout_spectrum: 0.3546917666681111
+typography_spectrum: 0.1484819937031716
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9759430852718651
+  lightness: 0.18295708461664617
+  saturation: 0.9089369778521359
+  rhythmicContrast: 0.15823558601550758
+purpose: []
