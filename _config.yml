@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Shop
+    url: 'https://www.etsy.com/nl/shop/SisaTaki?ref=profile_shopname'
+    type: external
 favicon: null
 title: Flower of Dancing Light
 description: make haste slowly
