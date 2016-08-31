@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/17d88465-fe85-49ca-8833-12d1edc289e3.png
 name: SisaTaki
 cta:
   domain: null
