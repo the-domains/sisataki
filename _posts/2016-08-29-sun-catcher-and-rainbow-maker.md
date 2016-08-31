@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-29T19:49:18.742Z'
+datePublished: '2016-08-29T19:49:41.726Z'
 sourcePath: _posts/2016-08-29-sun-catcher-and-rainbow-maker.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-29T19:49:07.700Z'
+dateModified: '2016-08-29T19:49:41.011Z'
 title: Sun Catcher & Rainbow Maker
 publisher: {}
 description: 'Sun Catcher or Rainbow maker, to brighten the living space with Dancing Light.'
