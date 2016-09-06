@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Flower of Dancing Light]]></title>
-        <description><![CDATA[Flower of Dancing Light]]></description>
+        <title><![CDATA[}§{ SisaTaki }{ ]]></title>
+        <description><![CDATA[}§{ SisaTaki }{ ]]></description>
         <link>https://thegrid.ai/sisataki/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 20:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 01:13:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sisataki/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdcb57c5-ee73-4155-a8c8-65235f53947d.jpg">]]></description>
-            <link>https://thegrid.ai/sisataki/f5ee7b9d-bc23-451c-b096-3da9649a6ecc/index.html</link>
-            <guid isPermaLink="false">f5ee7b9d-bc23-451c-b096-3da9649a6ecc</guid>
-            <pubDate>Mon, 29 Aug 2016 20:06:47 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed79efcc-5cbe-4b0f-b9b6-7641da088282.jpg">]]></description>
@@ -33,6 +26,13 @@
             <link>https://thegrid.ai/sisataki/3ad93d7d-406f-4727-9895-f12ee1321ced/index.html</link>
             <guid isPermaLink="false">3ad93d7d-406f-4727-9895-f12ee1321ced</guid>
             <pubDate>Mon, 29 Aug 2016 19:59:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdcb57c5-ee73-4155-a8c8-65235f53947d.jpg">]]></description>
+            <link>https://thegrid.ai/sisataki/f5ee7b9d-bc23-451c-b096-3da9649a6ecc/index.html</link>
+            <guid isPermaLink="false">f5ee7b9d-bc23-451c-b096-3da9649a6ecc</guid>
+            <pubDate>Sat, 03 Sep 2016 01:13:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
