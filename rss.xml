@@ -4,7 +4,7 @@
         <description><![CDATA[}§{ SisaTaki }{ ]]></description>
         <link>https://thegrid.ai/sisataki/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Sep 2016 01:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 01:13:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sisataki/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,17 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3db2b482-c3fe-49f6-b5e8-d7bfd56a53a7.jpg">]]></description>
-            <link>https://thegrid.ai/sisataki/0f102589-525c-4352-849c-7a1e9935581f/index.html</link>
-            <guid isPermaLink="false">0f102589-525c-4352-849c-7a1e9935581f</guid>
-            <pubDate>Mon, 29 Aug 2016 19:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4903b9fd-ee5e-458e-a6b3-87f23c2a0faf.jpg">]]></description>
             <link>https://thegrid.ai/sisataki/3ad93d7d-406f-4727-9895-f12ee1321ced/index.html</link>
             <guid isPermaLink="false">3ad93d7d-406f-4727-9895-f12ee1321ced</guid>
-            <pubDate>Mon, 29 Aug 2016 19:59:12 GMT</pubDate>
+            <pubDate>Sat, 03 Sep 2016 01:13:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +26,13 @@
             <link>https://thegrid.ai/sisataki/f5ee7b9d-bc23-451c-b096-3da9649a6ecc/index.html</link>
             <guid isPermaLink="false">f5ee7b9d-bc23-451c-b096-3da9649a6ecc</guid>
             <pubDate>Sat, 03 Sep 2016 01:13:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3db2b482-c3fe-49f6-b5e8-d7bfd56a53a7.jpg">]]></description>
+            <link>https://thegrid.ai/sisataki/0f102589-525c-4352-849c-7a1e9935581f/index.html</link>
+            <guid isPermaLink="false">0f102589-525c-4352-849c-7a1e9935581f</guid>
+            <pubDate>Sat, 03 Sep 2016 01:13:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
